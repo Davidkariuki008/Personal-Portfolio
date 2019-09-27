@@ -1,0 +1,121 @@
+/*the header, navigation bar and  top links*/
+
+#list1{
+    color: rgb(119, 10, 83);
+    font-size: 40px;
+    list-style: none;
+    padding-top: 45px;
+    
+}
+
+nav{
+    background-color: rgb(7, 125, 146);
+    height: 140px;
+    width: 100%;
+    text-align: center;
+     
+}
+
+li{
+    display: inline;
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+li a{
+    text-decoration: none;
+   padding-inline-end: 20px;
+   padding-inline-start: 20px;
+}
+/*body section*/
+body{
+    background-color: rgb(75, 168, 211);
+    margin-left: 100px;
+    margin-right: 100px;
+
+    
+}
+/*my image and first section*/
+#img{
+
+   border-radius: 700px;
+   height: 700px;
+   width: 500px;
+   float: left;
+   padding-left: 30px;
+   margin-right: 70px;
+    
+}
+#section1{
+    
+    margin-top: 150px;
+    font-size: 34px;
+    text-align:center; 
+    border-style: solid;
+    border-color: goldenrod;
+    background-color: limegreen
+
+    
+}
+#div1{
+    margin-left: 100px;
+}
+#section2{
+   
+    margin-top: 150px;
+    font-size: 34px;
+    text-align:center;
+   border-style: double;
+   border-top-style: dotted;
+   border-bottom-style: dotted;
+   background-color: royalblue;
+
+}
+#img1{                              /*HTML IMAGE*/
+    height:600px; 
+    width: 900px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img2{                              /*CSS IMAGE*/
+    height: 500px;
+    width: 500px;                          
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img3{                               /*JS IMAGE*/
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img4{                              /*C++ IMAGE*/
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img5{                              /*JAVA IMAGE*/
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img6{                              /*PHP IMAGE*/
+    height: 500px;
+    width: 700px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#img7{                              /*PYTHON IMAGE*/
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/*FOOTER*/
+footer{
+    background-color: rgb(152, 210, 233);
+    height: 50px;
+    font-size: 25px;
+}

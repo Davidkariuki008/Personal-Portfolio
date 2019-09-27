@@ -1,0 +1,64 @@
+my_image {
+    border-radius: 450px
+
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 33px;
+   
+}
+a{
+    text-decoration: none;
+
+}
+nav{
+    background-color: rgb(75, 240, 190);
+    height: 70px;
+    
+
+}
+ul{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#david{
+    padding-left: 100px;
+}
+#my_image{
+    border-radius: 850px;
+}
+#id5{
+    float: left;
+    border-radius: 500px;
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+    margin-right: 40px;
+
+}
+#id6{
+    margin-left: 15%;
+    margin-right: 15%;
+    border: solid blueviolet 3px;
+    font-size: 20px;
+}
+#id7{
+    speed:slow;
+}
+footer {
+    border: 2px solid black;
+    padding: 0px 5px 5px 5px;
+    text-align: center;
+    background-color: rgb(224, 108, 186);
+}
+header{
+   
+    text-align: center
+    position: fixed;
+    
+}
+#idh{
+    background-color: rgb(224, 108, 186)
+    
+}

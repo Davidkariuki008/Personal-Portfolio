@@ -1,0 +1,145 @@
+/*CONTACTS*/
+/*the header, navigation bar and  top links*/
+
+nav{
+    background-color: rgb(7, 125, 146);
+    height: 133px;
+    width: 100%;
+    text-align: center;
+    
+
+}
+#li{
+   text-align: center;
+    background-color: rgb(197, 195, 201);
+    border-radius: 20px;
+    font-size: 60px;
+   margin-left: 400px;
+   margin-right: 400px;
+   
+}
+
+body{
+    background-color: rgb(75, 168, 211);
+}
+footer{
+    background-color: rgb(152, 210, 233);
+    height: 50px;
+    font-size: 25px;
+   
+}
+#tohome{
+    float: right;
+    background-color: rgb(195, 179, 233); 
+    font-size: 20px;
+}
+button{
+    
+    
+}
+                                                /*MY CURRICULUM VITAE*/
+
+#cvbody{
+    border: brown;
+    border-style: double;
+    align-content: center;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+ #div1{
+    text-align: center;
+    font-size: 30px;
+}
+#table1{
+    border-style: double;
+    background-color: rgb(141, 169, 219);
+}
+#section2{
+    padding-left: 100px;
+    font-size: 25px;
+}
+
+                                                /*MY PROJECTS*/
+#projectbody{
+    border: brown;
+    border-style: double;
+    align-content: center;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#imgproject1{
+    height: 500px;
+    width: 700px;
+    align-content: center;
+    padding-left: 100px;
+}
+#p1{
+    text-align: center;
+    font-size: 30px;
+}
+#h1{
+    text-align: center;
+    font-size: 40px;
+}
+                                            /*CONTACTS*/
+#contactbody{
+    border: brown;
+    border-style: double;
+    align-content: center;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#section3{
+    padding-left:100px; 
+}
+
+                                        /* SUBMISSION FORM*/
+
+#formbody{
+    border: brown;
+    border-style: double;
+    align-content: center;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+ #formbg{
+    background-image: url(./assets/form.jpg);
+    backface-visibility:hidden;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+#form1{
+   border-bottom: 5px;
+}
+form{
+    
+}
+
+label{
+    color: red;
+}
+input{
+    border-radius: 5px;
+    background-color: skyblue;
+    width: 250px;
+    height: 25px;
+}
+option{
+    width: 235px;
+    height: 25px;
+}
+select{
+    height: 25px;
+    background-color: skyblue;
+}
+textarea{
+    border-radius: 5px;
+    background-color: skyblue;
+}
