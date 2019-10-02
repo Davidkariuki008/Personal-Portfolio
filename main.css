@@ -18,7 +18,7 @@ nav{
 
 li{
     display: inline;
-    background-color: yellowgreen;
+    background-color: rgb(243, 247, 246);
     border-radius: 20px;
 }
 li a{
@@ -37,8 +37,8 @@ body{
 /*my image and first section*/
 #img{
 
-   border-radius: 700px;
-   height: 700px;
+   border-radius: 500px;
+   height: 500px;
    width: 500px;
    float: left;
    padding-left: 30px;
@@ -52,7 +52,7 @@ body{
     text-align:center; 
     border-style: solid;
     border-color: goldenrod;
-    background-color: limegreen
+    background-color: rgb(120, 187, 214)
 
     
 }
@@ -65,7 +65,7 @@ body{
     font-size: 34px;
     text-align:center;
    border-style: double;
-   border-top-style: dotted;
+   /* border-top-style: dotted; */
    border-bottom-style: dotted;
    background-color: royalblue;
 
